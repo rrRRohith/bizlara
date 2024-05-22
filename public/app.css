@@ -14,7 +14,7 @@ body * {
 }
 
 main.wrapper {
-  margin-top: 56px;
+  margin-top: 72px;
 }
 
 .mh-100vh {
@@ -228,7 +228,7 @@ body .border-none:focus {
 .contact-card,
 .search-card {
   position: sticky !important;
-  top: 72px;
+  top: 94px;
 }
 
 .background-fit {
@@ -279,4 +279,8 @@ select.p-none {
 .btn-light.active {
   background: var(--bs-dark) !important;
   color: var(--bs-white) !important;
+}
+
+.navbar-brand img {
+  max-width: 90px;
 }

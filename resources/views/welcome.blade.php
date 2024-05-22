@@ -16,6 +16,7 @@
         @include('home.categories')
         @include('home.cities')
         @include('home.brokers')
+        @include('home.testimonials')
     </div>
   </div>
 @endsection
