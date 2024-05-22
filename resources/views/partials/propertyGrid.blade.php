@@ -9,8 +9,7 @@
         </div>
         <div>
             <p class="mt-2 mb-0 fw-semibold text-overflow text-capitalize"> Photo studio, Toronto </p>
-            <p class="mb-0 text-gray text-overflow"> <i class="bi bi-geo-alt-fill"></i> Toronto Premium Outlets,
-                Toronto, Ontario, L7G 0J1, Canada </p>
+            <p class="mb-0 text-gray text-overflow"> <i class="bi bi-geo-alt-fill"></i> Toronto Premium Outlets, Toronto, Ontario, L7G 0J1, Canada </p>
             <div class="mt-2">
                 <div class="d-flex align-items-center">
                     <div class="text-overflow me-2">
