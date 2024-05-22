@@ -1,6 +1,6 @@
 @extends('layouts.wrapper', ['wrapperClass' => 'bg-light'])
 @section('contents')
-@section('title', env('APP_NAME')." | Businesses for Sale and Franchise Opportunities")
+@section('title', "Businesses for Sale and Franchise Opportunities")
 <div>
     <div class="container-fluid w-100 d-flex align-items-center" style="
       background-image: linear-gradient( #00000078, #00000024 ), url(https://bookly.indigitalapi.com/uploads/static/res/auth.webp);
